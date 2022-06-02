@@ -1,0 +1,1 @@
+### MERN web application with PassportJS for authentication
